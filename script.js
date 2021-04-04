@@ -322,6 +322,13 @@ $(document).ready(function(e) {
                log("crack", "> https://bit.ly/3sSgmgg")
             }
             break;
+         case "/apply":
+            if (word.length >= 30000) {
+            } else {
+               log("Client", "> Email me at kin@kinhacks.design");
+               log("Client", "> Join my Guilded server for live support!");
+            }
+            break;
          default:
             output = "Unrecognised command '" + word[0] + "'.";
             log("Client", output);
