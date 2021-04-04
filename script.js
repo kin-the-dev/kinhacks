@@ -326,7 +326,7 @@ $(document).ready(function(e) {
             if (word.length >= 30000) {
             } else {
                log("Client", "> Email me at kin@kinhacks.design");
-               log("Client", "> Join my Guilded server for live support!");
+               log("Client", "> Join my Guilded server for live support! guilded.gg/kinhacks");
             }
             break;
          default:
