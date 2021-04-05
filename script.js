@@ -61,6 +61,7 @@ $(document).ready(function(e) {
       log("Website", "for info on applying & purchasing my clients type '/apply'");
       log("Website", "for info on downloading cracked clients type '/crack'");
       log("Website", "if you need help contact us with '/contact'");
+      log("Website", "view changes with '/changelog'");
 	  setInterval(favicon,500);
    }
 
@@ -340,6 +341,14 @@ $(document).ready(function(e) {
 		log("Client", "Azura : https://workupload.com/file/6XVnJVADxSJ password: intentcrack");
 		log("Client", "Sigma 4.11 (dev/prem) (no miner) : https://www.mediafire.com/file/xzvvfqg2aqcggnj/Sigma.zip/file");
 		log("Client", "ZeroDay b20.1 (mac & windows): https://www.mediafire.com/file/qd7andd9ljh09ac/ZeroDay.zip/file");
+			    }
+			   break;
+	  case "/changelog":
+	     if (word.length >= 30000) {
+	     } else {
+		log("Client", "4/2/2021 > Website was released");
+		log("Client", "4/3/2021 > Updated website, added more cracked clients and added /contact");
+		log("Client", "4/4/2021 > Updated website, cracked newest version of rise & added changelog");
 			    }
 			   break;
          default:
