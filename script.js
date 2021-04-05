@@ -327,12 +327,12 @@ $(document).ready(function(e) {
                log("Client", "> Email me at kin@kinhacks.design");
                log("Client", "> Join my Guilded server for live support! guilded.gg/kinhacks");
             }
-	    break;
-	  case "/davidlopez"
-		      if (word.length >=30000) {
-      } else {
-		      log("Client", "secret command unlocked :) https://www.youtube.com/watch?v=j7QI1_CGw5k");
-      }
+            break;
+         case "/davidlopez":
+            if (word.length >= 30000) {
+            } else {
+               log("Client", "https://www.youtube.com/watch?v=j7QI1_CGw5k");
+            }
 	    break;
 	  case "/crack2":
 	     if (word.length >= 30000) {
