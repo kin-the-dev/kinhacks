@@ -333,7 +333,7 @@ $(document).ready(function(e) {
 	     } else {
 		log("Client", "Azura : https://workupload.com/file/6XVnJVADxSJ password: intentcrack");
 		log("Client", "Sigma 4.11 (dev/prem) (no miner) : https://www.mediafire.com/file/xzvvfqg2aqcggnj/Sigma.zip/file");
-		log("Client", "ZeroDay b20.1 : https://www.mediafire.com/file/qd7andd9ljh09ac/ZeroDay.zip/file");
+		log("Client", "ZeroDay b20.1 (mac & windows): https://www.mediafire.com/file/qd7andd9ljh09ac/ZeroDay.zip/file");
 			    }
 			   break;
          default:
