@@ -15,7 +15,7 @@ $(document).ready(function(e) {
       ["Dortware 1.4.0", "https://www.mediafire.com/file/p4wpnopmw18t2u6/Dortware_1.4.0.zip/file"],
       ["Remix 1.6.3", "https://www.mediafire.com/file/ur4gkg013nsaa08/Remix.zip/file"],
       ["Crystalware Reloaded b8", "https://www.mediafire.com/file/mjanm3lcstzapkt/Crystalware_Reloaded_b8.zip/file"],
-	   ["Rise b4", "https://www.mediafire.com/file/v1qutpsb2abypof/Rise.zip/file"],
+	   ["Rise b4.4", "https://www.mediafire.com/file/i4dosarpdvpi5ew/Rise_b4.4.zip/file"],
       ["NEXT PAGE", "do '/crack2'"],
    ];
    var previouscommands = [];
