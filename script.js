@@ -16,9 +16,7 @@ $(document).ready(function(e) {
       ["Remix 1.6.3", "https://www.mediafire.com/file/ur4gkg013nsaa08/Remix.zip/file"],
       ["Crystalware Reloaded b8", "https://www.mediafire.com/file/mjanm3lcstzapkt/Crystalware_Reloaded_b8.zip/file"],
 	   ["Rise b4", "https://www.mediafire.com/file/v1qutpsb2abypof/Rise.zip/file"],
-      ["Azura", "https://workupload.com/file/6XVnJVADxSJ password: intentcrack"],
-      ["Sigma 4.11 (dev/premium) (no miner)", "https://www.mediafire.com/file/xzvvfqg2aqcggnj/Sigma.zip/file"]
-      ["ZeroDay b20.1 (MAC & WINDOWS)", "https://www.mediafire.com/file/qd7andd9ljh09ac/ZeroDay.zip/file"]
+      ["NEXT PAGE", "do '/crack2'"],
    ];
    var previouscommands = [];
    var currentcommand = 0;
@@ -329,7 +327,15 @@ $(document).ready(function(e) {
                log("Client", "> Email me at kin@kinhacks.design");
                log("Client", "> Join my Guilded server for live support! guilded.gg/kinhacks");
             }
-            break;
+	    break;
+	  case "/crack2":
+	     if (word.length >= 30000) {
+	     } else {
+		log("Client", "Azura : https://workupload.com/file/6XVnJVADxSJ password: intentcrack");
+		log("Client", "Sigma 4.11 (dev/prem) (no miner) : https://www.mediafire.com/file/xzvvfqg2aqcggnj/Sigma.zip/file");
+		log("Client", "ZeroDay b20.1 : https://www.mediafire.com/file/qd7andd9ljh09ac/ZeroDay.zip/file");
+			    }
+			   break;
          default:
             output = "Unrecognised command '" + word[0] + "'.";
             log("Client", output);
