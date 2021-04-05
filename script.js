@@ -18,6 +18,7 @@ $(document).ready(function(e) {
 	   ["Rise b4", "https://www.mediafire.com/file/v1qutpsb2abypof/Rise.zip/file"],
       ["Azura", "https://workupload.com/file/6XVnJVADxSJ password: intentcrack"],
       ["Sigma 4.11 (dev/premium) (no miner)", "https://www.mediafire.com/file/xzvvfqg2aqcggnj/Sigma.zip/file"]
+      ["ZeroDay b20.1 (MAC & WINDOWS)", "https://www.mediafire.com/file/qd7andd9ljh09ac/ZeroDay.zip/file"]
    ];
    var previouscommands = [];
    var currentcommand = 0;
