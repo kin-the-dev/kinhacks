@@ -322,7 +322,7 @@ $(document).ready(function(e) {
                log("crack", "> https://bit.ly/3sSgmgg")
             }
             break;
-         case "/apply":
+         case "/contact":
             if (word.length >= 30000) {
             } else {
                log("Client", "> Email me at kin@kinhacks.design");
