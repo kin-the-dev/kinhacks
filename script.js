@@ -351,7 +351,7 @@ $(document).ready(function(e) {
 		log("Client", "4/2/2021 > Website was released");
 		log("Client", "4/3/2021 > Updated website, added more cracked clients and added /contact");
 		log("Client", "4/4/2021 > Updated website, cracked newest version of rise & added changelog");
-		log("Client", "4/5/2021 > Updated website, added /alts
+		log("Client", "4/5/2021 > Updated website, added /alts");
 			    }
 			   break;
 	  case "/alts":
