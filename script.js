@@ -360,9 +360,9 @@ $(document).ready(function(e) {
 		log("Client", "FREE > https://freealts.pw");
 		log("Client", "CHEAP & CAUTION > https://alts.lol");
 		log("Client", "CHEAP & CAUTION > https://sellix.io/swgold");
-		log("Client", "TRUSTFUL > https://fastalts.com/);
-		log("Client", "TRUSTFUL > https://shop.thealtening.com/);
-		log("Client", "[MESSAGE] Any purchases from the stores with caution are not my responsibility if you get scammed, if you have alt shops or have proved that an alt shop with caution is legit then please message me with /contact.");
+		log("Client", "TRUSTFUL > https://fastalts.com/");
+		log("Client", "TRUSTFUL > https://shop.thealtening.com/");
+		log("Client", "[MESSAGE] Any purchases from the stores with caution are not my responsibility if you get scammed, if you have alt shops or have proved that an alt shop with caution is legit then please message me with '/contact.'");
 		log("Client", "[MESSAGE] If you own an alt shop please contact me with '/contact' so you can be on the list or we can be partnered");
 			    }
 			   break;
