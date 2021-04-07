@@ -62,7 +62,7 @@ $(document).ready(function(e) {
       log("Website", "for info on downloading cracked clients type '/crack'");
       log("Website", "if you need help contact us with '/contact'");
       log("Website", "view changes with '/changelog'");
-      log("Website", "view alt shops wit "/alts'");
+      log("Website", "view alt shops with '/alts'");
 	  setInterval(favicon,500);
    }
 
